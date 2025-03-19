@@ -17,7 +17,7 @@
  */
 
 #include <Wire.h>
-#include "SPI.h"
+#include <SPI.h>
 #include <LovyanGFX.hpp>
 #include "makerfabs_pin.h"
 
